@@ -75,6 +75,9 @@ h5{
 .opiniones{
   background-color:  #f3ca4c !important;
 }
+.blanco{
+  background-color:  #ffffff !important;
+}
 .opinion_title{
   color:  #e4007c !important;
   font-weight: 500;
@@ -104,11 +107,21 @@ h5{
   font-size: 12px !important;
   border: solid 2px #e4007c !important;
 }
+.pedido{
+  background-color:  #fff !important;
+  color: #e4007c !important;
+  font-weight: 600 !important;
+  font-size: 12px !important;
+  border: solid 1px #e4007c !important;
+}
 nav{
   background-color: #ffffff !important;
   
 }
-
+.anclas{
+ color: #333333 !important;
+ font-size: 35px;
+}
 
 
 .brack{
