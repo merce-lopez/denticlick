@@ -1,0 +1,15 @@
+[24-Jul-2018 21:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/uyq7l34tvxo5/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 /home/uyq7l34tvxo5/public_html/deleteme.wph8mh.php(16): include_once()
+#1 {main}
+  thrown in /home/uyq7l34tvxo5/public_html/wp-admin/includes/file.php on line 16
+[24-Jul-2018 21:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/uyq7l34tvxo5/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 /home/uyq7l34tvxo5/public_html/deleteme.wp95wx.php(16): include_once()
+#1 {main}
+  thrown in /home/uyq7l34tvxo5/public_html/wp-admin/includes/file.php on line 16
+[24-Jul-2018 21:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/uyq7l34tvxo5/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 /home/uyq7l34tvxo5/public_html/deleteme.wpfykn.php(16): include_once()
+#1 {main}
+  thrown in /home/uyq7l34tvxo5/public_html/wp-admin/includes/file.php on line 16
