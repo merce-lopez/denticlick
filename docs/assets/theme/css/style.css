@@ -42,7 +42,8 @@ figure {
   margin-bottom: 0; }
 
 body {
-  color: #232323; }
+  color: #232323;
+overflow-x: hidden; }
 
 h1, h2, h3, h4, h6,
 .h1, .h2, .h3, .h4, .h6,
@@ -574,6 +575,14 @@ nav .mbr-section-btn {
     right: auto;
     transform: translateX(-50%) rotate(180deg);
     -webkit-transform: translateX(-50%) rotate(180deg); } }
+    
+      .mbr-section-title{
+        font-size: 40px ;
+       
+        }
+        .sombra{
+          font-size: 22px;
+        }
 /*Gradients animation*/
 @keyframes gradient-animation {
   from {
